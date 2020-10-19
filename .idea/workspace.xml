@@ -3,12 +3,35 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40da0680-6dd1-4b77-b01a-e7051c83c645" name="Default Changelist" comment="" />
+    <list default="true" id="40da0680-6dd1-4b77-b01a-e7051c83c645" name="Default Changelist" comment="adding Upload the index.html, other html files such as sorkin.html, image and support files">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j56cS4n96yhn2BLwSmyGtmVnHV" />
   <component name="ProjectViewState">
@@ -44,11 +67,35 @@
       <option name="presentableId" value="Default" />
       <updated>1603081684616</updated>
       <workItem from="1603081686043" duration="7432000" />
+      <workItem from="1603089540545" duration="405000" />
     </task>
+    <task id="LOCAL-00001" summary="adding Upload the index.html, other html files such as sorkin.html, image and support files">
+      <created>1603089672054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603089672054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding Upload the index.html, other html files such as sorkin.html, image and support files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Upload the index.html, other html files such as sorkin.html, image and support files" />
   </component>
   <component name="WindowStateProjectService">
     <state width="675" height="204" key="GridCell.Tab.0.bottom" timestamp="1603084632278">
@@ -115,6 +162,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="675" height="204" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1603084632278" />
+    <state x="0" y="73" key="Vcs.Push.Dialog.v2" timestamp="1603089689468">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603089689468" />
     <state x="11" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603084483805">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
